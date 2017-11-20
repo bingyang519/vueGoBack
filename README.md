@@ -1,7 +1,8 @@
 # vue-goback
 
-> vue go back no refresh
 > vue单页面，多路由，前进刷新，后退不刷新。
+## 详细介绍
+  　[另辟蹊径：vue单页面，多路由，前进刷新，后退不刷新](https://segmentfault.com/a/1190000012083511)
 
 ## Build Setup
 
